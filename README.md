@@ -7,7 +7,7 @@ Usage
 
 To start an instance:
 
-	docker run -d --name http2server -v <your-web-dir>:/www -p 443:443 gohttp2server
+	docker run -d --name http2server -v <your-web-dir>:/www -p 443:443 sdd330/gohttp2server
 
 To login to bash:
 
